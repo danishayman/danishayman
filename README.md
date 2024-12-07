@@ -1,5 +1,5 @@
 # 💫 About Me:
- A student and aspiring developer from Malaysia. I love building web apps, and solving tech challenges, . Let's create something amazing! 
+ A student and aspiring developer from Malaysia. I love building web apps, and Machine Learning models!
 
 
 ## 🌐 Socials:
