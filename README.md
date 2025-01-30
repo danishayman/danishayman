@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **danishaiman3b@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gR4oHjDlUIkiE8C9-45DeFh6Izyf_OsH/view]([https://drive.google.com/file/d/14GVgNdqkc14YMpFIsHU9g7dlxGCxHLX5/view](https://drive.google.com/file/d/1gR4oHjDlUIkiE8C9-45DeFh6Izyf_OsH/view))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gR4oHjDlUIkiE8C9-45DeFh6Izyf_OsH/view](https://drive.google.com/file/d/1gR4oHjDlUIkiE8C9-45DeFh6Izyf_OsH/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
