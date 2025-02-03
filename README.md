@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishayman&label=Profile%20Views&color=aa3434&style=flat-square" alt="danishayman" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Firebase**
-
 - 👨‍💻 All of my projects are available at [https://danishayman.netlify.app/](https://danishayman.netlify.app/)
 
 - 📫 How to reach me **danishaiman3b@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gR4oHjDlUIkiE8C9-45DeFh6Izyf_OsH/view](https://drive.google.com/file/d/1gR4oHjDlUIkiE8C9-45DeFh6Izyf_OsH/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
