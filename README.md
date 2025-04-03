@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danishayman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danishaiman3b@gmail.com) 
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/danishayman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danishaiman3b@gmail.com) 
 
 # 💻 Tech Stack:
 
