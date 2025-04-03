@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,cs,cpp,java,php,python,ts,js,firebase,tailwind,flutter,npm,nextjs,nodejs,react,reactnative,vite,vue,sqlite,supabase,figma,numpy,pandas,pytorch,tensorflow,github,git,dotnet,r&perline=8)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,cs,cpp,java,php,python,ts,js,firebase,tailwind,flutter,npm,nextjs,nodejs,react,reactnative,vite,vue,sqlite,supabase,figma,numpy,pandas,pytorch,tensorflow,github,git,dotnet,r&perline=10)
 
 
 # 📊 GitHub Stats:
