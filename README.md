@@ -4,7 +4,7 @@
 👨‍💻 Developer majoring in Intelligent Computing  
 🧠 **SUPER** into Machine Learning & Artificial Intelligence  
 
-[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/danishaiman)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/danishayman)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/danishayman)
 [![Portfolio](https://danishaiman.com/favicon.ico)](https://danishaiman.com)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:danishaiman3b@gmail.com)
