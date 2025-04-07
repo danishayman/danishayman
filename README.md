@@ -14,50 +14,50 @@
 ## 💻 Tech Stack
 
 ### 🧠 Languages  
-![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)
-![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)
-![C](https://go-skill-icons.vercel.app/api/icons?i=cs)
-![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)
-![Java](https://go-skill-icons.vercel.app/api/icons?i=java)
-![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)
-![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
-![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)
-![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)
-![R](https://go-skill-icons.vercel.app/api/icons?i=r)
+[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![C](https://go-skill-icons.vercel.app/api/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://en.cppreference.com/)
+[![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://docs.oracle.com/javase/8/docs/)
+[![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)](https://www.php.net/docs.php)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=python)](https://docs.python.org/3/)
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org/docs/)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://cran.r-project.org/manuals.html)
 
 ---
 
 ### ⚙️ Frameworks, Libraries & Tools  
-![React](https://go-skill-icons.vercel.app/api/icons?i=react)
-![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
-![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
-![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)
-![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter)
-![Tailwind CSS](https://go-skill-icons.vercel.app/api/icons?i=tailwind)
-![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)
-![.NET](https://go-skill-icons.vercel.app/api/icons?i=dotnet)
-![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs)
-![npm](https://go-skill-icons.vercel.app/api/icons?i=npm)
-![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
-![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)
-![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)
+[![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://react.dev/learn)
+[![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative)](https://reactnative.dev/docs/getting-started)
+[![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs)](https://nextjs.org/docs)
+[![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)](https://vuejs.org/guide/introduction.html)
+[![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter)](https://docs.flutter.dev/)
+[![Tailwind CSS](https://go-skill-icons.vercel.app/api/icons?i=tailwind)](https://tailwindcss.com/docs/installation)
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vitejs.dev/guide/)
+[![.NET](https://go-skill-icons.vercel.app/api/icons?i=dotnet)](https://learn.microsoft.com/en-us/dotnet/)
+[![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org/en/docs)
+[![npm](https://go-skill-icons.vercel.app/api/icons?i=npm)](https://docs.npmjs.com/)
+[![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/doc)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://docs.github.com/)
+[![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)](https://figma.com/)
 
 ---
 
 ### 📚 AI/ML  
-![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy)
-![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
-![PyTorch](https://go-skill-icons.vercel.app/api/icons?i=pytorch)
-![TensorFlow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow)
+[![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy)](https://numpy.org/doc/)
+[![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)](https://pandas.pydata.org/docs/)
+[![PyTorch](https://go-skill-icons.vercel.app/api/icons?i=pytorch)](https://pytorch.org/docs/stable/index.html)
+[![TensorFlow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow)](https://www.tensorflow.org/guide)
 
 ---
 
 ### ☁️ Databases & Cloud  
-![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)
-![Supabase](https://go-skill-icons.vercel.app/api/icons?i=supabase)
-![SQLite](https://go-skill-icons.vercel.app/api/icons?i=sqlite)
-![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel)
-![Netlify](https://go-skill-icons.vercel.app/api/icons?i=netlify)
+[![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)](https://firebase.google.com/)
+[![Supabase](https://go-skill-icons.vercel.app/api/icons?i=supabase)](https://supabase.com/docs)
+[![SQLite](https://go-skill-icons.vercel.app/api/icons?i=sqlite)](https://www.sqlite.org/docs.html)
+[![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel)](https://vercel.com/)
+[![Netlify](https://go-skill-icons.vercel.app/api/icons?i=netlify)](https://www.netlify.com/)
 
 ---
 
