@@ -4,11 +4,13 @@
 👨‍💻 Developer majoring in Intelligent Computing  
 🧠 **SUPER** into Machine Learning & Artificial Intelligence  
 
-[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/danishayman)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/danishayman)
-[![Portfolio](https://danishaiman.com/favicon.ico)](https://danishaiman.com)
-[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:danishaiman3b@gmail.com)
-[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/464037891400794123)
+
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github "Visit my GitHub repositories")](https://github.com/danishayman?tab=repositories)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin "Connect with me on LinkedIn")](https://linkedin.com/in/danishayman)
+[![Portfolio](https://danishaiman.com/favicon.ico "View my portfolio")](https://danishaiman.com)
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord "Contact me on Discord")](https://discordapp.com/users/464037891400794123)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail "Send me an email")](mailto:danishaiman3b@gmail.com)
+
 
 
 
