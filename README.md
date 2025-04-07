@@ -7,19 +7,19 @@
 
 
 <a href="https://github.com/danishayman?tab=repositories" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="Visit my GitHub repositories" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="Visit my GitHub repositories">
 </a>
 <a href="https://linkedin.com/in/danishayman" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="Connect with me on LinkedIn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="Connect with me on LinkedIn">
 </a>
 <a href="https://danishaiman.com" target="_blank">
-  <img src="https://danishaiman.com/favicon.ico" alt="View my portfolio" />
+  <img src="https://danishaiman.com/favicon.ico" alt="View my portfolio">
 </a>
 <a href="https://discordapp.com/users/464037891400794123" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Contact me on Discord" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Contact me on Discord">
 </a>
-<a href="mailto:danishaiman3b@gmail.com" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Send me an email" />
+<a href="mailto:danishaiman3b@gmail.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Send me an email">
 </a>
 
 
