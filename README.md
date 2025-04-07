@@ -1,8 +1,8 @@
 <div align="center">
 
 # 💫 About Me  
-👨‍💻 Developer majoring in Intelligent Computing  
-🧠 **SUPER** into Machine Learning & Artificial Intelligence  
+👨‍💻 **Computer Science** student specializing in **Intelligent Computing**  
+🔬 **SUPER** into **Machine Learning** & **Artificial Intelligence**   
 
 
 [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github "Visit my GitHub repositories")](https://github.com/danishayman?tab=repositories)
