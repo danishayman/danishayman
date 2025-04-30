@@ -24,7 +24,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishayman&line_height=40&hide=css&title_color=FF3C3C&text_color=FFFFFF&bg_color=000000"/>
   </a>
 <a href="">
-    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=danishayman&theme=radical&hide_border=false&background=000000&ring=AA3333&fire=EA5104&currStreakLabel=FF3C3C&currStreakNum=FF3C3C&sideNums=FFFFFF&sideLabels=FF3C3C&dates=FFFFFF"/>
+    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=danishayman&theme=radical&hide_border=false&background=000000&ring=4A102A&fire=C5172E&currStreakLabel=FF3C3C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF3C3C&dates=FFFFFF"/>
   </a>
 
 </div>
