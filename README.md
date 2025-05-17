@@ -16,7 +16,6 @@
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord "Contact me on Discord")](https://discordapp.com/users/464037891400794123)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail "Send me an email")](mailto:danishaiman3b@gmail.com)
 
-
 ---
 
 <div align="center"> 
