@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👾 About Me
-
 ---
 
 **Computer Science** student majoring in **Intelligent Computing.**
