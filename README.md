@@ -15,10 +15,6 @@
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail "Send me an email")](mailto:danishaiman3b@gmail.com)
 
 ---
-
-
-
-
 <div align="center"> 
   <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danishayman&show_icons=true&include_all_commits=true&count_private=true&line_height=40&title_color=FF3C3C&icon_color=AA3333&text_color=FFFFFF&bg_color=000000" />
