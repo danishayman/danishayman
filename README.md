@@ -14,6 +14,8 @@
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord "Contact me on Discord")](https://discordapp.com/users/464037891400794123)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail "Send me an email")](mailto:danishaiman3b@gmail.com)
 
+[![An image of @danishayman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishayman)](https://holopin.io/@danishayman)
+
 
 <!-- <div align="center"> 
   <a href="">
