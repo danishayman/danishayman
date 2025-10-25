@@ -2,9 +2,10 @@
 
 # 👾 About Me
 
-**Computer Science** student majoring in **Intelligent Computing.**
+<!-- **Computer Science** student majoring in **Intelligent Computing.**
 
-**SUPER** into **Machine Learning** & **Artificial Intelligence**
+**SUPER** into **Machine Learning** & **Artificial Intelligence** -->
+**A burned out fucking disappointment**
 
 <div align="center">
 
@@ -14,7 +15,7 @@
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord "Contact me on Discord")](https://discordapp.com/users/464037891400794123)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail "Send me an email")](mailto:danishaiman3b@gmail.com)
 
-<!-- [![An image of @danishayman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishayman)](https://holopin.io/@danishayman) >
+<!-- [![An image of @danishayman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishayman)](https://holopin.io/@danishayman) -->
 
 
 <!-- <div align="center"> 
