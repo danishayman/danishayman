@@ -5,7 +5,7 @@
 <!-- **Computer Science** student majoring in **Intelligent Computing.**
 
 **SUPER** into **Machine Learning** & **Artificial Intelligence** -->
-**a burned out fucking disappointment**
+**one day you will have to answer for all of your actions, and God may not be so merciful.**
 
 <div align="center">
 
